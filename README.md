@@ -7,3 +7,7 @@ TITLE: kenwood k20mss15 solo  --- CATEGORY: 	Microwaves
 TITLE: bosch wap28390gb 8kg 1400 spin  --- CATEGORY: 	Washing Machines
 TITLE: bosch serie 4 kgv39vl31g  --- CATEGORY: 	Fridge Freezers
 TITLE: smeg sbs8004po  --- CATEGORY: 	Fridge Freezers
+
+
+Run this command to download and test on your machine!
+git clone https://github.com/ddarko98/ml_product_sorting_darko_spasojevic.git
