@@ -1,4 +1,6 @@
-#**Machine learning model selection that will sort product in category based on its name**
+**Machine learning model selection that will sort product in category based on its name**
+
+
 
 Our goal is to select and create machine learning algorithm that will predict product category based od its name. By following the roadmap we will first gather data, clean it, find columns that are actually relevant for our model (feature engineering), train and finally select our model. We will put our model winner "in the pkl jar". In src/model_testing.py we will test model to see if can successfully predict category based on its title. Test example:
 
